@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### ⚡ I am Javascript/PHP/WordPress/jQuery/CSS developer. When I am not working, I Write/Debug/Modify Web Application
+#### ⚡ I am Javascript/PHP/WordPress/jQuery/CSS developer. When I am not working, I Write/Debug/Modify opensource Web Application
 
 <!--
 **ujw0l/ujw0l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
