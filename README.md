@@ -5,7 +5,10 @@
 
 ### Stats about me
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ujw0l&count_private=true&show_icons=true&layout=default)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ujw0l&count_private=true&show_icons=true&layout=defaultl)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujw0l)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ujw0l/ujw0l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
