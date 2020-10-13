@@ -2,6 +2,11 @@
 
 #### ⚡ I am Javascript/PHP/WordPress/jQuery/CSS developer. When I am not working, I Write/Debug/Modify opensource Web Applications
 
+
+### Stats about me
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=nateshmbhat&count_private=true&show_icons=true&layout=default)
+
 <!--
 **ujw0l/ujw0l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
