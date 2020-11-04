@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### ⚡ I am Javascript/PHP/WordPress/jQuery/CSS developer. When I am not working, I Write/Debug/Modify opensource Web Applications
+#### ⚡ I am Javascript/PHP/WordPress/jQuery/CSS developer. When I am not working, I Write/Debug/Modify opensource Web Applications and also make Machine Learn
 
 
 ### Stats about me
