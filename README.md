@@ -7,7 +7,7 @@
 - ç I’m currently working on WordPress plugin/Javascript libraries
 - 🌱 I’m currently learning Machine Learning/ AI
 - 👯 I’m looking to collaborate on any interesting project just let me know
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with learning Tensorflow.js
 - 💬 Ask me about WordPress plugins/Javascript/PHP 
 - 📫 How to reach me: bktujwol@gmail.com
 
